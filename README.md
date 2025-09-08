@@ -1,6 +1,7 @@
 # QA Project – Sauce Demo Login Flow
 
-This project focuses on testing the **login functionality** of the [Sauce Demo](https://www.saucedemo.com/) sample web application.  
+This project focuses on testing the **login functionality** of the [Sauce Demo](https://www.saucedemo.com/) sample web application. 
+
 It showcases my complete QA workflow: from **exploratory testing** and planning, through **manual test documentation**, to **automation** of repetitive login scenarios with Selenium and Python.
 
 ---
