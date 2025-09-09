@@ -67,4 +67,4 @@ Automation was chosen here because:
   - User remains on login page
   - Error message appears:  
     *Epic sadface: Username and password do not match any user in this service*
-  - URL does not redirect to `inventory.html`
+  - URL does not redirect to `inventory` page
