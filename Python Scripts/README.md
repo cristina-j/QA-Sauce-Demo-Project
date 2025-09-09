@@ -1,7 +1,9 @@
 # Python Scripts
 
-This folder contains my **standalone Python Selenium scripts**.  
-They were my first automation attempts before moving to pytest.  
+This folder contains my **standalone Python Selenium scripts**.
+
+They were my first automation attempts before moving to pytest.
+
 These scripts are run directly with the `python` command.
 
 ---
