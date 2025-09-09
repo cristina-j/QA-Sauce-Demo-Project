@@ -32,4 +32,4 @@ Here are the main resources I referred to while building these scripts:
   - [How to Automate Login using Selenium in Python](https://thepythoncode.com/article/automate-login-to-websites-using-selenium-in-python)
  
  - **Practice Application**
-  - [Sauce Demo](https://www.saucedemo.com/) — used as the test site.
+    - [Sauce Demo](https://www.saucedemo.com/) — used as the test site.
