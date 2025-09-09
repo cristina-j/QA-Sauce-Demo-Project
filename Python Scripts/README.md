@@ -19,7 +19,7 @@ These scripts are run directly with the `python` command.
 - How to locate elements using `By.ID`.
 - Using `.send_keys()` to type into fields and `.click()` to interact with buttons.
 - Writing basic `assert` statements for validation.
-- The difference between running **individual scripts** with `python` vs running **test suites** with `pytest`.
+- The difference between running individual scripts with `python` vs running test suites with `pytest`.
 
 ---
 
