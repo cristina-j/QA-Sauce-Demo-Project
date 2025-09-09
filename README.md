@@ -49,6 +49,8 @@ I executed my test cases manually, recording results in a **Test Execution Log**
 To save time on repetitive login tests, I automated:
 - **Valid login flow**
 - **Invalid login flow**
+  - `valid_login.py`- Python script that tests a valid login flow
+  - `invalid_login.py` - Python script that tests an invalid login flow
 
 Automation was chosen here because:
 - Login is a critical, repetitive task.
