@@ -31,5 +31,5 @@ Here are the main resources I referred to while building these scripts:
   - [Expected Conditions in Selenium with Types and Examples](https://www.geeksforgeeks.org/software-testing/expected-conditions-in-selenium-with-types-and-examples/)
   - [How to Automate Login using Selenium in Python](https://thepythoncode.com/article/automate-login-to-websites-using-selenium-in-python)
  
-  **Practice Application**  
+ - **Practice Application**  
   - [Sauce Demo](https://www.saucedemo.com/) — used as the test site.
