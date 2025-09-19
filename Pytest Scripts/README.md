@@ -39,7 +39,7 @@ These are more professional than plain Python scripts because pytest:
    - Fixed to `from selenium.webdriver.common.by import By`
 
 2. **WebDriver initialization error**  
-   - `webdriver.Chrome(ChromeDriverManager().install())` → gave `'str' object has no attribute capabilities'`  
+   - `webdriver.Chrome(ChromeDriverManager().install())` gave the error `'str' object has no attribute capabilities'`  
    - Fixed by using a `Service`:  
      ```python
      from selenium.webdriver.chrome.service import Service
