@@ -9,8 +9,8 @@ These scripts are run directly with the `python` command.
 ---
 
 ## Scripts
-- `valid_login.py` → Automates valid login flow
-- `invalid_login.py` → Automates invalid login flow
+- `valid_login.py`: Automates valid login flow
+- `invalid_login.py`: Automates invalid login flow
 
 ---
 
