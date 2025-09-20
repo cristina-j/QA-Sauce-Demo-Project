@@ -1,6 +1,7 @@
 # Pytest Scripts
 
-This folder contains my **pytest-based automation scripts**.  
+This folder contains my pytest-based automation scripts.  
+
 These are more professional than plain Python scripts because pytest:
 - Automatically discovers test files and functions.
 - Runs multiple tests in a single command.
@@ -10,8 +11,8 @@ These are more professional than plain Python scripts because pytest:
 ---
 
 ## Scripts
-- `test_valid_login.py` → Valid login should redirect to the Products page
-- `test_invalid_login.py` → Invalid login should stay on login page with error message
+- `test_valid_login.py`: Valid login should redirect to the Products page
+- `test_invalid_login.py`: Invalid login should stay on login page with error message
 
 ---
 
