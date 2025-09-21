@@ -5,6 +5,6 @@ It complements the manual artifacts in `test cases for sauce demo site` (test ca
 
 ## What’s Included
 - `saucedemo_tests/`
-  - `conftest.py`: shared fixtures for WebDriver + login
+  - `conftest.py`: shared fixtures for WebDriver and login
   - `test_login.py`: valid login tests
   - `test_cart.py`: add-to-cart verification
