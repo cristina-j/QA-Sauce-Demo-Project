@@ -1,0 +1,10 @@
+# SauceDemo – Pytest Automation Suite
+
+This folder contains an automated test suite for the SauceDemo site using Selenium + Pytest.  
+It complements the manual artifacts in `../test-cases` (test cases, execution logs, and test plan).
+
+## What’s Included
+- `saucedemo_tests/`
+  - `conftest.py`: shared fixtures for WebDriver + login
+  - `test_login.py`: valid login tests
+  - `test_cart.py`: add-to-cart verification
