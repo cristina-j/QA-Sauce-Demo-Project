@@ -1,6 +1,6 @@
 # SauceDemo – Pytest Automation Suite
 
-This folder contains an automated test suite for the SauceDemo site using Selenium + Pytest.  
+This folder contains an automated test suite for the SauceDemo site using Selenium and Pytest.  
 It complements the manual artifacts in `test cases for sauce demo site` (test cases, execution logs, and test plan).
 
 ## What’s Included
