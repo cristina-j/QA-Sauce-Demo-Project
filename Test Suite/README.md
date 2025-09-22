@@ -9,4 +9,4 @@ It complements the manual artifacts in `test cases for sauce demo site` (test ca
   - `test_login.py`: valid login tests
   - `test_cart.py`: add-to-cart verification
 
-**Note**: I will be added a test checkout process to this test suite
+**Note**: I will be adding a test checkout process to this test suite.
