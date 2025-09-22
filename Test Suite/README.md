@@ -8,3 +8,5 @@ It complements the manual artifacts in `test cases for sauce demo site` (test ca
   - `conftest.py`: shared fixtures for WebDriver and login
   - `test_login.py`: valid login tests
   - `test_cart.py`: add-to-cart verification
+
+**Note**: I will be added a test checkout process to this test suite
