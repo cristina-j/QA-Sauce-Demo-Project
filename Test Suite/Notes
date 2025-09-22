@@ -1,0 +1,8 @@
+### Issues I Encountered
+
+- At first, I tried using `driver.find_element(By.CLASS_NAME, "inventory_item")[0]` 
+  but this failed with a `NoSuchElementException`.
+- Fix: `find_element` only returns a single element, so indexing `[0]` is invalid. 
+  The correct approach is to use `find_elements` and then select `[0]`.
+- I also learned to add an explicit wait (`WebDriverWait`) so Selenium has time 
+  to find `.inventory_item` after login and also able to find the buttons and wait until they are clickable.
